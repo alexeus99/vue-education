@@ -7,6 +7,7 @@ import PostPageWithStore from "@/pages/PostPageWithStore";
 
 
 
+
 const routes = [
   {
     path: "/",
@@ -27,7 +28,8 @@ const routes = [
   {
     path: "/store",
     component: PostPageWithStore
-  }
+  },
+
 ];
 
 
